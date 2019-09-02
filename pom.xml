@@ -4,7 +4,7 @@
   <groupId>citiustech</groupId>
   <artifactId>com.citiustech</artifactId>
   <packaging>war</packaging>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <name>com.citiustech Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
